@@ -10,7 +10,7 @@
 ###   creates set of points,later to be  meshed
 
 ## 2. meshgen.m
-###   generate mesh from the set of points using distmesh
+###   Generates mesh from the set of points using distmesh
 
 ## 3. connctivity.m 
 ###    Creates coordinates for cell centers, face center and cell vertices
