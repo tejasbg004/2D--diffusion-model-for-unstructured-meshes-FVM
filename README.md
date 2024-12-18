@@ -7,7 +7,7 @@
 ###   The distmesh generates triangular meshes for the set of points provided  
 
 ## 2. CheckTetMesh.m
-###   creates set of points, and invokes the distmesh
+###   creates set of points,later to be  meshed
 
 ## 2. meshgen.m
 ###   generate mesh from the set of points using distmesh
