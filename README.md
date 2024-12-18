@@ -2,7 +2,7 @@
 
 # List of files
 
-## 1. distmesh 
+## 1. distmesh.m
 ###   This is a Mesh generating code developed by  Per-Olof Persson
 ###   The distmesh generates triangular meshes for the set of points provided  
 
@@ -20,6 +20,9 @@
 
 ## 5. t2p.m
 ###   Interpolates between cell centroids and vertices
+
+## 6. ImplicitEulerFVM.m
+###   Contains code to solve the 2d diffusion equation using Finite volume based-implict euler method
 
 
 
